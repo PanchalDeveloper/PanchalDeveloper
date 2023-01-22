@@ -1,7 +1,7 @@
 <img src='https://github.com/PanchalDeveloper/PanchalDeveloper/blob/main/Cover%20Image.png' alt='Cover Image' width="80%">
-### Hi there 👋, my name is Aman Panchal
+#### Aman Panchal
 
-#### I am a Full-Stack Web Devloper 🧑
+### I am a Full-Stack Web Devloper 🧑
 
 
 
