@@ -12,6 +12,7 @@ I'm a Full Stack Web Developer and I like making Beautiful & Advanced Websites. 
 * Python
 * NodeJS
 * HTML, CSS, JS
+* SQL Based DB & MongoDB
 * Pandas, NumPy, PyPDF2, Django, Flask
 * Bootstrap 5
 * BeautifulSoup, Selenium & Scrapy WebScrapping and Automation
