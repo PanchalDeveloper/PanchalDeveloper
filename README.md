@@ -1,4 +1,4 @@
-![I am a Full-Stack Web Devloper 🧑](https://github.com/PanchalDeveloper/PanchalDeveloper/blob/main/Cover%20Image.png')
+![I am a Full-Stack Web Devloper 🧑](https://github.com/PanchalDeveloper/PanchalDeveloper/blob/main/Cover%20Image.png)
 
 # Aman Panchal
 ## I am a Full-Stack Web Devloper 🧑
