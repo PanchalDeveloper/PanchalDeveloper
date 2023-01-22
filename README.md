@@ -1,7 +1,7 @@
-![I am a Full-Stack Web Devloper 🧑](https://github.com/PanchalDeveloper/PanchalDeveloper/blob/main/Cover%20Image.png)
+![I am a Full-Stack Web Devloper 👨‍💻](https://github.com/PanchalDeveloper/PanchalDeveloper/blob/main/Cover%20Image.png)
 
 # Aman Panchal
-## Full-Stack Web Devloper 🧑
+## Full-Stack Web Devloper 👨‍💻
 
 
 I'm a Full Stack Web Developer and I like making Beautiful & Advanced Websites. I also like making new Scripts/Programs for Task Automation, solving technical issues in programs and Doing Tech Related Works (like:- Learning About ML/AI).
