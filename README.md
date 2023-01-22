@@ -1,8 +1,11 @@
+(https://github.com/PanchalDeveloper/PanchalDeveloper/blob/main/Cover%20Image.png)
 ### Hi there 👋, my name is Aman Panchal
-#### I am a Full-Stack Web Devloper 🧑
-![I am a Full-Stack Web Devloper 🧑](https://github.com/PanchalDeveloper/PanchalDeveloper/blob/main/Cover%20Image.png)
 
-I'm a Full Stack Web Developer and I like making Beautiful & Advanced Websites. I also like making new creative Programs & Doing Tech Related Works.
+#### I am a Full-Stack Web Devloper 🧑
+
+![I am a Full-Stack Web Devloper 🧑]
+
+I'm a Full Stack Web Developer and I like making Beautiful & Advanced Websites. I also like making new Scripts/Programs for Task Automation, solving technical issues in programs and Doing Tech Related Works (like:- Learning About ML/AI).
 
 Skills: Python / NodeJS / JS / HTML / CSS / Django & Flask / Bootstrap 5 / Selenium
 
