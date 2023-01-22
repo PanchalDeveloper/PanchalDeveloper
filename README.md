@@ -1,4 +1,4 @@
-<img src='https://github.com/PanchalDeveloper/PanchalDeveloper/blob/main/Cover%20Image.png' alt='Cover Image' width="80%" style="margin:auto;border:2px solid white;">
+<img src='https://github.com/PanchalDeveloper/PanchalDeveloper/blob/main/Cover%20Image.png' alt='Cover Image' width="80%">
 #### Aman Panchal
 
 ### I am a Full-Stack Web Devloper 🧑
