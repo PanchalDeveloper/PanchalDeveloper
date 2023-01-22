@@ -3,7 +3,6 @@
 #### I am a Full-Stack Web Devloper 🧑
 
 
-
 I'm a Full Stack Web Developer and I like making Beautiful & Advanced Websites. I also like making new Scripts/Programs for Task Automation, solving technical issues in programs and Doing Tech Related Works (like:- Learning About ML/AI).
 
 
