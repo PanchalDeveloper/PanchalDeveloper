@@ -1,4 +1,4 @@
-<img src='https://github.com/PanchalDeveloper/PanchalDeveloper/blob/main/Cover%20Image.png' alt='Cover Image' width="80%">
+![I am a Full-Stack Web Devloper 🧑](<img src='https://github.com/PanchalDeveloper/PanchalDeveloper/blob/main/Cover%20Image.png' alt='Cover Image' width="80%">)
 # Aman Panchal
 ## I am a Full-Stack Web Devloper 🧑
 
