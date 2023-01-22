@@ -24,7 +24,7 @@ I'm a Full Stack Web Developer and I like making Beautiful & Advanced Websites. 
 
 - 🌱 I’m currently learning WebScrapping & Datamining 
 
-- 📫 How to reach me: Email - connect.amanpanchal@gmail.com 
+- 📫 How to reach me: email - connect.amanpanchal@gmail.com
 
 
 [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/https://github.com/PanchalDeveloper)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/https://www.linkedin.com/in/panchal-devloper//)      [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg' alt='twitter' height='40'>](https://twitter.com/https://twitter.com/PanchalDevloper)      [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/stackoverflow.svg' alt='stackoverflow' height='40'>](https://stackoverflow.com/users/https://stackoverflow.com/u/20530552)  
