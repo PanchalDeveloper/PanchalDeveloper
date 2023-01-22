@@ -1,24 +1,24 @@
 ![I am a Full-Stack Web Devloper 🧑](https://github.com/PanchalDeveloper/PanchalDeveloper/blob/main/Cover%20Image.png)
 
 # Aman Panchal
-## I am a Full-Stack Web Devloper 🧑
+## Full-Stack Web Devloper 🧑
 
 
 I'm a Full Stack Web Developer and I like making Beautiful & Advanced Websites. I also like making new Scripts/Programs for Task Automation, solving technical issues in programs and Doing Tech Related Works (like:- Learning About ML/AI).
 
 
-Skills: 
+## Skills & Experience: 
 
 * Python
 * NodeJS
-* JS
-* HTML
-* CSS
-* Django & Flask
+* HTML, CSS, JS
+* Pandas, NumPy, PyPDF2, Django, Flask
 * Bootstrap 5
-* Selenium
+* BeautifulSoup, Selenium & Scrapy WebScrapping and Automation
+* Linux/Unix OS Basic Understanding
 
 
+## Current Status:
 - 🔭 I’m currently working on Fiverr & Upwork as Freelancer 
 
 - 🌱 I’m currently learning WebScrapping & Datamining 
